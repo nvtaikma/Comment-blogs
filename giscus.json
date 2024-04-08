@@ -1,3 +1,4 @@
 {
-  "origins": ["https://nvtaikma.com"]
+  "origins": ["https://nvtaikma.com"],
+  "originsRegex": ["http://localhost:[0-9]+"]
 }
